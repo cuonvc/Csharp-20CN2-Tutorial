@@ -1,0 +1,8 @@
+D:\Workspace\Csharp\lab1\source\bin\Debug\source.exe.config
+D:\Workspace\Csharp\lab1\source\bin\Debug\source.exe
+D:\Workspace\Csharp\lab1\source\bin\Debug\source.pdb
+D:\Workspace\Csharp\lab1\source\obj\Debug\source.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\lab1\source\obj\Debug\source.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Csharp\lab1\source\obj\Debug\source.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\lab1\source\obj\Debug\source.exe
+D:\Workspace\Csharp\lab1\source\obj\Debug\source.pdb
