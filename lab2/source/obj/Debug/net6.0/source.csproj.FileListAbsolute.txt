@@ -1,0 +1,15 @@
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\bin\Debug\net6.0\source.exe
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\bin\Debug\net6.0\source.deps.json
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\bin\Debug\net6.0\source.runtimeconfig.json
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\bin\Debug\net6.0\source.dll
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\bin\Debug\net6.0\source.pdb
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.AssemblyInfoInputs.cache
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.AssemblyInfo.cs
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.dll
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\refint\source.dll
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.pdb
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\source.genruntimeconfig.cache
+D:\Workspace\Csharp\Csharp-20CN2-Tutorial\lab2\source\obj\Debug\net6.0\ref\source.dll
