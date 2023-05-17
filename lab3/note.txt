@@ -1,0 +1,2 @@
+Tất cả các class trong bài đều chạy chung trên một main class là Program
+Mỗi một bài trong lab là một case trong switch - case của Program.cs
